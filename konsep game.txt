@@ -1,0 +1,13 @@
+Nama : Much. Rizki Andrianto
+NRP : 4210171015
+Kelas : 1 D4 Game Technology
+
+Tugas Pemorgraman : Membuat game sederhana menggunakan C++
+
+Konsep game tebak kata :
+1.	Menggunakan array untuk menyimpan kata
+2.	Menggunakan fungsi random untuk mengacak kata yang muncul
+3.	Akan muncul beberapa huruf , user diminta untuk melengkapi huruf yang kosong
+4.	User diberi kesempatan menginpuntan huruf sampai 10x selama 1 kali permainan 
+5.	Jika user bias menginputkan huruf dan kesempatan > 0 maka akan muncul kata baru dan user mendapatakan 10 poin
+6.	Jika kesempatan = 0 maka user akan kalah dan menampilkan jumlah poin yang didapatkan user dan game berakhir
